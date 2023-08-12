@@ -1,7 +1,6 @@
 ### Hi there, I'm Kirill Zhidov 👋
 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working as a teacher
 - 🌱 I’m currently learning machine learning
