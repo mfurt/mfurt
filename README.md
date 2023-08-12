@@ -24,5 +24,4 @@ MATLAB
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfurt&layout=compact)](https://github.com/mfurt/github-readme-stats)
 
 ---
-<!---Пример кода-->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Have+a+nice+day!)](https://git.io/typing-svg)
