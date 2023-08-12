@@ -8,5 +8,14 @@
 - ⚡ Fun fact: A pumapard is a hybrid of a cougar and a leopard.
 
 ## Languages and Tools:
+###### Data Analytics: 
+Python, Numpy, Pandas, Matplotlib, Seaborn, SciPy
+
 ###### Data Science: 
-Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, TensorFlow, Keras
+Python, Scikit-learn, TensorFlow, Keras, PyTorch, CatBoost, XGBoost, LightGBM
+
+###### Web Development
+Python, Django, Flask, FastAPI
+
+###### Mathematical modeling
+MATLAB
