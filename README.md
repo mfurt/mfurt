@@ -24,7 +24,7 @@ MATLAB
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfurt&layout=compact)](https://github.com/mfurt/github-readme-stats)
 
 ---
-[![codewars](https://www.codewars.com/users/mfurt/badges/large)](https://www.codewars.com/mfurt/username)
+[![codewars](https://www.codewars.com/users/mfurt/badges/large)](https://www.codewars.com/users/mfurt)
 
 ---
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Have+a+nice+day!)](https://git.io/typing-svg)
